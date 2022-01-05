@@ -1,0 +1,90 @@
+body{
+    margin: 0;
+    font-family: 'Yeseva One', cursive;
+}
+section{
+    width: 85%;
+    margin: auto;
+}
+.top-part{
+
+    margin-top: 55px;
+    display: flex;
+    padding: 25px 0 20px 0;
+}
+.text-orange{
+    color: orange;
+}
+.left-part p{
+    margin: 30px 0;
+    line-height: 25px;
+    font-size: 20px;
+    text-align: justify;
+    color: rgb(165, 148, 148);
+}
+.heading{
+    border-left: 4px solid rgb(224, 88, 76);
+    /* padding-left: 12px; */
+}
+.heading h1{
+    font-size: 50px;
+    padding-left: 15px;
+}
+
+.button-style{
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.right-part img{
+    width: 80%;
+    margin-left:25%;    
+}
+/* mission part */
+.mission-title{
+    text-align: center;
+    font-size: 50px;
+}
+.mission-part{
+    display: flex;
+    margin-bottom: 55px;
+}
+.cart {
+    padding: 25px;
+    margin: 12px;
+    border-radius: 15px;
+}
+.cart img{
+    width: 40%;
+    height: 150px;
+}
+.cart p{
+    margin: 30px 0;
+    line-height: 25px;
+    font-size: 18px;
+    /* text-align: justify; */
+    color: rgb(165, 148, 148);
+}
+.cart-one{
+    background-color: rgba(146, 222, 252, 0.37);
+    /* margin: 10px; */
+    /* padding: 15px; */
+    /* border-radius: 10px; */
+}
+.cart-two{
+    background-color: rgba(243, 119, 206, 0.212);
+    /* margin: 10px; */
+    /* padding: 15px; */
+    /* border-radius: 10px; */
+    
+}
+.cart-three{
+    background-color: rgba(241, 223, 60, 0.192);
+    /* margin: 10px; */
+    /* padding: 20px; */
+    /* border-radius: 20px; */
+}
+
