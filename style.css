@@ -24,7 +24,6 @@ section{
 }
 .heading{
     border-left: 4px solid rgb(224, 88, 76);
-    /* padding-left: 12px; */
 }
 .heading h1{
     font-size: 50px;
@@ -157,4 +156,31 @@ section{
 .footer-part p {
     color: rgba(216, 216, 216, 0.795);
     font-size: 22px;
+}
+.contact-part{
+    display: flex;
+}
+.touch{
+    width: 90%;
+    padding-right: 40px;
+
+}
+.touch h1{
+    font-size: 45px;
+    margin: 0;
+}
+.input-field{
+    width: 100%;
+}
+label{
+    font-size: 22px;
+}
+.input{
+    width: 90%;
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px 0;
+}
+textarea{
+    height: 120px;
 }
