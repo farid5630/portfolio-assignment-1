@@ -24,10 +24,12 @@ section{
 }
 .heading{
     border-left: 4px solid rgb(224, 88, 76);
+    height: 145px;
 }
 .heading h1{
     font-size: 50px;
     padding-left: 15px;
+    margin-top: -20;
 }
 
 .button-style{
@@ -179,7 +181,7 @@ label{
     width: 80%;
     font-size: 20px;
     padding: 10px;
-    margin: 10px 0;
+    margin: 15px 0;
 }
 textarea{
     height: 120px;
@@ -194,4 +196,11 @@ textarea{
     font-size: 20px;
     text-align: justify;
     color: rgb(165, 148, 148);
+}
+.font-icons {
+    font-size: 60px;
+    
+}
+.font-icons i {
+    padding: 25px;
 }
